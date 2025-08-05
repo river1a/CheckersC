@@ -58,7 +58,6 @@ events:
         - "C:\\Users\\river\\AppData\\Local\\JetBrains\\Toolbox\\scripts"
         - "C:\\Program Files\\JetBrains\\PyCharm 2025.1.2\\bin"
         - "C:\\Users\\river\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "c:\\Users\\river\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
   -
     kind: "message-v1"
     backtrace:
@@ -75,7 +74,7 @@ events:
       The output was:
       0
       MSBuild version 17.14.18+a338add32 for .NET Framework
-      Build started 06/08/2025 1:42:24.
+      Build started 06/08/2025 2:23:09.
       
       Project "C:\\Users\\river\\Desktop\\CheckersC\\build\\CMakeFiles\\4.1.0\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -104,7 +103,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:01.48
+      Time Elapsed 00:00:01.35
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -160,7 +159,6 @@ events:
       - "C:/Users/river/AppData/Local/JetBrains/Toolbox/scripts/"
       - "C:/Program Files/JetBrains/PyCharm 2025.1.2/bin/"
       - "C:/Users/river/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/river/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/VS/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/link.com"
     found: "C:/VS/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/link.exe"
@@ -189,7 +187,6 @@ events:
         - "C:\\Users\\river\\AppData\\Local\\JetBrains\\Toolbox\\scripts"
         - "C:\\Program Files\\JetBrains\\PyCharm 2025.1.2\\bin"
         - "C:\\Users\\river\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "c:\\Users\\river\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -236,7 +233,6 @@ events:
       - "C:/Users/river/AppData/Local/JetBrains/Toolbox/scripts/"
       - "C:/Program Files/JetBrains/PyCharm 2025.1.2/bin/"
       - "C:/Users/river/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/river/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/VS/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/lld-link.com"
       - "C:/VS/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/lld-link.exe"
@@ -310,9 +306,6 @@ events:
       - "C:/Users/river/AppData/Local/Programs/Microsoft VS Code/bin/lld-link.com"
       - "C:/Users/river/AppData/Local/Programs/Microsoft VS Code/bin/lld-link.exe"
       - "C:/Users/river/AppData/Local/Programs/Microsoft VS Code/bin/lld-link"
-      - "C:/Users/river/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/lld-link.com"
-      - "C:/Users/river/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/lld-link.exe"
-      - "C:/Users/river/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/lld-link"
     found: false
     search_context:
       ENV{PATH}:
@@ -339,7 +332,6 @@ events:
         - "C:\\Users\\river\\AppData\\Local\\JetBrains\\Toolbox\\scripts"
         - "C:\\Program Files\\JetBrains\\PyCharm 2025.1.2\\bin"
         - "C:\\Users\\river\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "c:\\Users\\river\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -384,7 +376,6 @@ events:
       - "C:/Users/river/AppData/Local/JetBrains/Toolbox/scripts/"
       - "C:/Program Files/JetBrains/PyCharm 2025.1.2/bin/"
       - "C:/Users/river/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/river/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/VS/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/link.com"
     found: "C:/VS/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/link.exe"
@@ -413,7 +404,6 @@ events:
         - "C:\\Users\\river\\AppData\\Local\\JetBrains\\Toolbox\\scripts"
         - "C:\\Program Files\\JetBrains\\PyCharm 2025.1.2\\bin"
         - "C:\\Users\\river\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "c:\\Users\\river\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -458,7 +448,6 @@ events:
       - "C:/Users/river/AppData/Local/JetBrains/Toolbox/scripts/"
       - "C:/Program Files/JetBrains/PyCharm 2025.1.2/bin/"
       - "C:/Users/river/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/river/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/VS/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/mt.com"
       - "C:/VS/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/mt.exe"
@@ -532,9 +521,6 @@ events:
       - "C:/Users/river/AppData/Local/Programs/Microsoft VS Code/bin/mt.com"
       - "C:/Users/river/AppData/Local/Programs/Microsoft VS Code/bin/mt.exe"
       - "C:/Users/river/AppData/Local/Programs/Microsoft VS Code/bin/mt"
-      - "C:/Users/river/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/mt.com"
-      - "C:/Users/river/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/mt.exe"
-      - "C:/Users/river/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/mt"
     found: false
     search_context:
       ENV{PATH}:
@@ -561,7 +547,6 @@ events:
         - "C:\\Users\\river\\AppData\\Local\\JetBrains\\Toolbox\\scripts"
         - "C:\\Program Files\\JetBrains\\PyCharm 2025.1.2\\bin"
         - "C:\\Users\\river\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "c:\\Users\\river\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -606,7 +591,6 @@ events:
       - "C:/Users/river/AppData/Local/JetBrains/Toolbox/scripts/"
       - "C:/Program Files/JetBrains/PyCharm 2025.1.2/bin/"
       - "C:/Users/river/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/river/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
     searched_directories:
       - "C:/VS/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/lib.com"
     found: "C:/VS/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/lib.exe"
@@ -635,7 +619,6 @@ events:
         - "C:\\Users\\river\\AppData\\Local\\JetBrains\\Toolbox\\scripts"
         - "C:\\Program Files\\JetBrains\\PyCharm 2025.1.2\\bin"
         - "C:\\Users\\river\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "c:\\Users\\river\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
   -
     kind: "find-v1"
     backtrace:
@@ -682,7 +665,6 @@ events:
       - "C:/Users/river/AppData/Local/JetBrains/Toolbox/scripts/"
       - "C:/Program Files/JetBrains/PyCharm 2025.1.2/bin/"
       - "C:/Users/river/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/river/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Program Files/bin/"
       - "C:/Program Files/sbin/"
       - "C:/Program Files/"
@@ -765,9 +747,6 @@ events:
       - "C:/Users/river/AppData/Local/Programs/Microsoft VS Code/bin/rc.com"
       - "C:/Users/river/AppData/Local/Programs/Microsoft VS Code/bin/rc.exe"
       - "C:/Users/river/AppData/Local/Programs/Microsoft VS Code/bin/rc"
-      - "C:/Users/river/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/rc.com"
-      - "C:/Users/river/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/rc.exe"
-      - "C:/Users/river/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts/rc"
       - "C:/Program Files/bin/rc.com"
       - "C:/Program Files/bin/rc.exe"
       - "C:/Program Files/bin/rc"
@@ -830,7 +809,6 @@ events:
         - "C:\\Users\\river\\AppData\\Local\\JetBrains\\Toolbox\\scripts"
         - "C:\\Program Files\\JetBrains\\PyCharm 2025.1.2\\bin"
         - "C:\\Users\\river\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "c:\\Users\\river\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts"
       CMAKE_INSTALL_PREFIX: "C:/Program Files/CheckersC"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
@@ -846,8 +824,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/river/Desktop/CheckersC/build/CMakeFiles/CMakeScratch/TryCompile-qi0g7w"
-      binary: "C:/Users/river/Desktop/CheckersC/build/CMakeFiles/CMakeScratch/TryCompile-qi0g7w"
+      source: "C:/Users/river/Desktop/CheckersC/build/CMakeFiles/CMakeScratch/TryCompile-ipungy"
+      binary: "C:/Users/river/Desktop/CheckersC/build/CMakeFiles/CMakeScratch/TryCompile-ipungy"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -856,40 +834,40 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/river/Desktop/CheckersC/build/CMakeFiles/CMakeScratch/TryCompile-qi0g7w'
+        Change Dir: 'C:/Users/river/Desktop/CheckersC/build/CMakeFiles/CMakeScratch/TryCompile-ipungy'
         
-        Run Build Command(s): C:/VS/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_5a98e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): C:/VS/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_e16ec.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.14.18+a338add32 for .NET Framework
-        Build started 06/08/2025 1:42:26.
+        Build started 06/08/2025 2:23:11.
         
-        Project "C:\\Users\\river\\Desktop\\CheckersC\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qi0g7w\\cmTC_5a98e.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\river\\Desktop\\CheckersC\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ipungy\\cmTC_e16ec.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_5a98e.dir\\Debug\\".
+          Creating directory "cmTC_e16ec.dir\\Debug\\".
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\Users\\river\\Desktop\\CheckersC\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qi0g7w\\Debug\\".
-          Creating directory "cmTC_5a98e.dir\\Debug\\cmTC_5a98e.tlog\\".
+          Creating directory "C:\\Users\\river\\Desktop\\CheckersC\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ipungy\\Debug\\".
+          Creating directory "cmTC_e16ec.dir\\Debug\\cmTC_e16ec.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_5a98e.dir\\Debug\\cmTC_5a98e.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_5a98e.dir\\Debug\\cmTC_5a98e.tlog\\unsuccessfulbuild".
+          Creating "cmTC_e16ec.dir\\Debug\\cmTC_e16ec.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_e16ec.dir\\Debug\\cmTC_e16ec.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\VS\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_5a98e.dir\\Debug\\\\" /Fd"cmTC_5a98e.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
+          C:\\VS\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_e16ec.dir\\Debug\\\\" /Fd"cmTC_e16ec.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35214 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_5a98e.dir\\Debug\\\\" /Fd"cmTC_5a98e.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_e16ec.dir\\Debug\\\\" /Fd"cmTC_e16ec.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\VS\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\river\\Desktop\\CheckersC\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qi0g7w\\Debug\\cmTC_5a98e.exe" /INCREMENTAL /ILK:"cmTC_5a98e.dir\\Debug\\cmTC_5a98e.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/river/Desktop/CheckersC/build/CMakeFiles/CMakeScratch/TryCompile-qi0g7w/Debug/cmTC_5a98e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/river/Desktop/CheckersC/build/CMakeFiles/CMakeScratch/TryCompile-qi0g7w/Debug/cmTC_5a98e.lib" /MACHINE:X64  /machine:x64 cmTC_5a98e.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_5a98e.vcxproj -> C:\\Users\\river\\Desktop\\CheckersC\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qi0g7w\\Debug\\cmTC_5a98e.exe
+          C:\\VS\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\river\\Desktop\\CheckersC\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ipungy\\Debug\\cmTC_e16ec.exe" /INCREMENTAL /ILK:"cmTC_e16ec.dir\\Debug\\cmTC_e16ec.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/river/Desktop/CheckersC/build/CMakeFiles/CMakeScratch/TryCompile-ipungy/Debug/cmTC_e16ec.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/river/Desktop/CheckersC/build/CMakeFiles/CMakeScratch/TryCompile-ipungy/Debug/cmTC_e16ec.lib" /MACHINE:X64  /machine:x64 cmTC_e16ec.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_e16ec.vcxproj -> C:\\Users\\river\\Desktop\\CheckersC\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ipungy\\Debug\\cmTC_e16ec.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_5a98e.dir\\Debug\\cmTC_5a98e.tlog\\unsuccessfulbuild".
-          Touching "cmTC_5a98e.dir\\Debug\\cmTC_5a98e.tlog\\cmTC_5a98e.lastbuildstate".
-        Done Building Project "C:\\Users\\river\\Desktop\\CheckersC\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qi0g7w\\cmTC_5a98e.vcxproj" (default targets).
+          Deleting file "cmTC_e16ec.dir\\Debug\\cmTC_e16ec.tlog\\unsuccessfulbuild".
+          Touching "cmTC_e16ec.dir\\Debug\\cmTC_e16ec.tlog\\cmTC_e16ec.lastbuildstate".
+        Done Building Project "C:\\Users\\river\\Desktop\\CheckersC\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ipungy\\cmTC_e16ec.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:01.45
+        Time Elapsed 00:00:01.41
         
       exitCode: 0
   -

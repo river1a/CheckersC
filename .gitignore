@@ -1,0 +1,15 @@
+﻿build/
+Debug/
+Release/
+.vs/
+.vscode/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exe
+*.log
