@@ -13,3 +13,6 @@ Makefile
 *.idb
 *.exe
 *.log
+
+build/
+.vscode/

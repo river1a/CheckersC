@@ -1,3 +1,0 @@
-C:/Users/river/Desktop/CheckersC/build/CMakeFiles/CheckersC.dir
-C:/Users/river/Desktop/CheckersC/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/river/Desktop/CheckersC/build/CMakeFiles/ZERO_CHECK.dir
